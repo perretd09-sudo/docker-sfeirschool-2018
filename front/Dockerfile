@@ -1,5 +1,5 @@
 # Create image from alpine:3.5
-FROM alpine:3.5
+FROM alpine:latest
 
 # some usefull tags
 LABEL image-name docker-sfeirschool-front
